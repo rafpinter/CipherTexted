@@ -1,3 +1,8 @@
+//
+//  CipherTexted
+//  This is a tool that enciphers your text
+//
+
 #include <stdio.h>
 #include <cs50.h>
 #include <stdlib.h>
